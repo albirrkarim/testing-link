@@ -2,6 +2,7 @@
 
 [something](#some)
 
+[something not found](#some-hahaa)
 
 
 # some
