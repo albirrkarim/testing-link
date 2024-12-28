@@ -1,11 +1,11 @@
 # testing-link
 
-[something](#some)
+[something](#some-hihi)
 
 [something not found](#some-hahaa)
 
 
-# some
+# some hihi
 
 sdffdfdf
 
