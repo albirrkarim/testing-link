@@ -19,3 +19,13 @@ sdffdfdf
 [openai](https://chat.openai.com)
 
 [tts](https://platform.openai.com/docs/guides/text-to-speech)
+
+
+
+# Other page
+
+[to valid hai bro](https://github.com/albirrkarim/testing-link/blob/main/SOMETHING.md#hai-bro-123)
+
+[to valid hai bro direct](SOMETHING.md#hai-bro-123)
+
+[to invalid hai bro direct](SOMETHING.md#hai-bro-3)
